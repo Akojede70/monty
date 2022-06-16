@@ -78,3 +78,4 @@ void add_node(stack_t **stack, int argument);
 void add_node_queue(stack_t **stack, int argument);
 
 #endif /*_MONTY_H_ */
+
